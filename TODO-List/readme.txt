@@ -1,4 +1,4 @@
--> This is a basic <b>TO-DO List</b> application made with react-redux.
+-> This is a basic **TO-DO List** application made with react-redux.
 -> In this app you can basically add and delete todos as per your requriement.
 
 1-> We will use materializecss.com : It is a CSS library, which is based on Material Design.
