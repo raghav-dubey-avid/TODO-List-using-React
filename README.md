@@ -1,3 +1,7 @@
+**Check out the link for the demo of this app**
+
+https://user-images.githubusercontent.com/36820299/103079626-2f249800-45fa-11eb-956f-8a0a43b5e393.mp4
+
 # TODO-List-using-React
 
 -> This is a basic **TO-DO List** application made with **react-redux**.
